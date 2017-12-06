@@ -1,0 +1,5 @@
+c:\users\vitor avelino\documents\visual studio 2015\Projects\Poker\Poker.Dominio\bin\Debug\Poker.Dominio.dll
+c:\users\vitor avelino\documents\visual studio 2015\Projects\Poker\Poker.Dominio\bin\Debug\Poker.Dominio.pdb
+c:\users\vitor avelino\documents\visual studio 2015\Projects\Poker\Poker.Dominio\obj\Debug\Poker.Dominio.csprojResolveAssemblyReference.cache
+c:\users\vitor avelino\documents\visual studio 2015\Projects\Poker\Poker.Dominio\obj\Debug\Poker.Dominio.dll
+c:\users\vitor avelino\documents\visual studio 2015\Projects\Poker\Poker.Dominio\obj\Debug\Poker.Dominio.pdb
